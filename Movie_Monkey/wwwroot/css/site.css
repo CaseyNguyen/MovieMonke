@@ -29,6 +29,7 @@
 
 
 body {
+    font-family: 'Inter', 'Times New Roman', Times, serif;
     width: 100%;
     margin: auto;
     background-color: #262626;
@@ -51,6 +52,11 @@ h3{
 .topProfile{
     height: 25px;
     width: 25px;
+}
+
+.bigDivider{
+    height: 2px;
+    background-image: linear-gradient(#FFF3F, #FFB700);
 }
 
 .yellowDivider {
@@ -88,6 +94,7 @@ li {
 }
 
     li a {
+        font-weight: 500;
         font-size: 22px;
         display: block;
         color: white;

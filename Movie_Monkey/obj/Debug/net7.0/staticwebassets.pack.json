@@ -29,6 +29,58 @@
       "PackagePath": "staticwebassets\\assets\\mrqueen\\Mr_Queen_Heo_Gyun_Heo_Nanseolheon_Memorial_Park 1.png"
     },
     {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\css\\fonts\\Inter.zip",
+      "PackagePath": "staticwebassets\\css\\fonts\\Inter.zip"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\css\\fonts\\Inter\\Inter-VariableFont_slnt,wght.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\Inter\\Inter-VariableFont_slnt,wght.ttf"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\css\\fonts\\Inter\\OFL.txt",
+      "PackagePath": "staticwebassets\\css\\fonts\\Inter\\OFL.txt"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\css\\fonts\\Inter\\README.txt",
+      "PackagePath": "staticwebassets\\css\\fonts\\Inter\\README.txt"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\css\\fonts\\Inter\\static\\Inter-Black.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\Inter\\static\\Inter-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\css\\fonts\\Inter\\static\\Inter-Bold.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\Inter\\static\\Inter-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\css\\fonts\\Inter\\static\\Inter-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\Inter\\static\\Inter-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\css\\fonts\\Inter\\static\\Inter-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\Inter\\static\\Inter-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\css\\fonts\\Inter\\static\\Inter-Light.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\Inter\\static\\Inter-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\css\\fonts\\Inter\\static\\Inter-Medium.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\Inter\\static\\Inter-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\css\\fonts\\Inter\\static\\Inter-Regular.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\Inter\\static\\Inter-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\css\\fonts\\Inter\\static\\Inter-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\Inter\\static\\Inter-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\css\\fonts\\Inter\\static\\Inter-Thin.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\Inter\\static\\Inter-Thin.ttf"
+    },
+    {
       "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
