@@ -8,8 +8,7 @@
     ".NETCoreApp,Version=v7.0": {
       "Movie_Monkey/1.0.0": {
         "dependencies": {
-          "Blazorise.Bootstrap": "1.2.2",
-          "Blazorise.Icons.FontAwesome": "1.2.2"
+          "Blazorise.Bootstrap": "1.2.2"
         },
         "runtime": {
           "Movie_Monkey.dll": {}
@@ -38,20 +37,6 @@
         },
         "runtime": {
           "lib/net7.0/Blazorise.Bootstrap.dll": {
-            "assemblyVersion": "1.2.2.0",
-            "fileVersion": "1.2.2.0"
-          }
-        }
-      },
-      "Blazorise.Icons.FontAwesome/1.2.2": {
-        "dependencies": {
-          "Blazorise": "1.2.2",
-          "Microsoft.AspNetCore.Components": "7.0.4",
-          "Microsoft.AspNetCore.Components.Web": "7.0.4",
-          "Microsoft.Extensions.Logging.Abstractions": "7.0.0"
-        },
-        "runtime": {
-          "lib/net7.0/Blazorise.Icons.FontAwesome.dll": {
             "assemblyVersion": "1.2.2.0",
             "fileVersion": "1.2.2.0"
           }
@@ -175,13 +160,6 @@
       "sha512": "sha512-W8goQlD/S0yjZjvk86E+l6zh3YRmhzmys3WTPFZVFZfUWxMyPUJdKMS3ZFvysVZMqfSsssysfgl1fofQVDXNKA==",
       "path": "blazorise.bootstrap/1.2.2",
       "hashPath": "blazorise.bootstrap.1.2.2.nupkg.sha512"
-    },
-    "Blazorise.Icons.FontAwesome/1.2.2": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-niOMfJ45FTVySfaWQUdFtH/d7/f1uJxRd/0Ak9UqwiPsr6d8KGBbPHPXhj8SdaLf7CRQh+VBGSeYyvWM7XiGog==",
-      "path": "blazorise.icons.fontawesome/1.2.2",
-      "hashPath": "blazorise.icons.fontawesome.1.2.2.nupkg.sha512"
     },
     "Blazorise.Licensing/1.1.0": {
       "type": "package",

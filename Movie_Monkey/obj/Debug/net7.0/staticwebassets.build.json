@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "X7pSnVfoh2LaF8VuapwyL21j4Vb88YDekoet/T5bZsI=",
+  "Hash": "gRquYyekiEyXtjr3TYiUjVK8FBclNx0jX5u6lwtx1Ks=",
   "Source": "Movie_Monkey",
   "BasePath": "_content/Movie_Monkey",
   "Mode": "Default",
@@ -697,6 +697,23 @@
       "OriginalItemSpec": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Movie_Monkey.bundle.scp.css"
     },
     {
+      "Identity": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\Logo.ico",
+      "SourceId": "Movie_Monkey",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\",
+      "BasePath": "_content/Movie_Monkey",
+      "RelativePath": "assets/Logo.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\Logo.ico"
+    },
+    {
       "Identity": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\mainpage\\Find_Yourself_Waterview.jpg",
       "SourceId": "Movie_Monkey",
       "SourceType": "Discovered",
@@ -729,6 +746,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\MovieMonkeyDarkMode.png"
+    },
+    {
+      "Identity": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\Profile.png",
+      "SourceId": "Movie_Monkey",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\",
+      "BasePath": "_content/Movie_Monkey",
+      "RelativePath": "assets/Profile.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\Profile.png"
     },
     {
       "Identity": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\css\\site.css",

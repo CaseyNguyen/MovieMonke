@@ -2,7 +2,6 @@ using Blazorise;
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
 using Blazorise.Bootstrap;
-using Blazorise.Icons.FontAwesome;
 
 
 var builder = WebApplication.CreateBuilder(args);
@@ -16,8 +15,7 @@ builder.Services
     {
         options.Immediate = true;
     })
-    .AddBootstrapProviders()
-    .AddFontAwesomeIcons();
+    .AddBootstrapProviders();
 
 var app = builder.Build();
 

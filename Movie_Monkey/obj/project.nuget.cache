@@ -1,12 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Z/0zd981U7k2a0tkzuF/oZHQUzvAc0w6IE/k4OgnUp4fwJnWMG1gZOc/OiXLiZq/yM4hTIOlenF+4eLLFFTJjw==",
+  "dgSpecHash": "1NJZxIV/g+yCALPS+dpwuC86XTCf5SZpC3uzSlhEv5yk/uJPVBXcSfI+Oz0B/X1TwIAF8m0w4Av6fKJcFCzDIQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\Movie_Monkey.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\casey\\.nuget\\packages\\blazorise\\1.2.2\\blazorise.1.2.2.nupkg.sha512",
     "C:\\Users\\casey\\.nuget\\packages\\blazorise.bootstrap\\1.2.2\\blazorise.bootstrap.1.2.2.nupkg.sha512",
-    "C:\\Users\\casey\\.nuget\\packages\\blazorise.icons.fontawesome\\1.2.2\\blazorise.icons.fontawesome.1.2.2.nupkg.sha512",
     "C:\\Users\\casey\\.nuget\\packages\\blazorise.licensing\\1.1.0\\blazorise.licensing.1.1.0.nupkg.sha512",
     "C:\\Users\\casey\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.4\\microsoft.aspnetcore.authorization.7.0.4.nupkg.sha512",
     "C:\\Users\\casey\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.4\\microsoft.aspnetcore.components.7.0.4.nupkg.sha512",

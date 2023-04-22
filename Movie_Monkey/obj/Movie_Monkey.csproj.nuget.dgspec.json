@@ -48,10 +48,6 @@
             "Blazorise.Bootstrap": {
               "target": "Package",
               "version": "[1.2.2, )"
-            },
-            "Blazorise.Icons.FontAwesome": {
-              "target": "Package",
-              "version": "[1.2.2, )"
             }
           },
           "imports": [

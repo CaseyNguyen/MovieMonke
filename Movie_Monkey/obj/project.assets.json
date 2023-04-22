@@ -48,21 +48,6 @@
           "buildMultiTargeting/Blazorise.Bootstrap.props": {}
         }
       },
-      "Blazorise.Icons.FontAwesome/1.2.2": {
-        "type": "package",
-        "dependencies": {
-          "Blazorise": "1.2.2",
-          "Microsoft.AspNetCore.Components": "7.0.4",
-          "Microsoft.AspNetCore.Components.Web": "7.0.4",
-          "Microsoft.Extensions.Logging.Abstractions": "7.0.0"
-        },
-        "compile": {
-          "lib/net7.0/Blazorise.Icons.FontAwesome.dll": {}
-        },
-        "runtime": {
-          "lib/net7.0/Blazorise.Icons.FontAwesome.dll": {}
-        }
-      },
       "Blazorise.Licensing/1.1.0": {
         "type": "package",
         "compile": {
@@ -357,21 +342,6 @@
         "staticwebassets/blazorise.bootstrap.min.css",
         "staticwebassets/modal.js",
         "staticwebassets/tooltip.js"
-      ]
-    },
-    "Blazorise.Icons.FontAwesome/1.2.2": {
-      "sha512": "niOMfJ45FTVySfaWQUdFtH/d7/f1uJxRd/0Ak9UqwiPsr6d8KGBbPHPXhj8SdaLf7CRQh+VBGSeYyvWM7XiGog==",
-      "type": "package",
-      "path": "blazorise.icons.fontawesome/1.2.2",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "Blazorise.png",
-        "LICENSE.md",
-        "blazorise.icons.fontawesome.1.2.2.nupkg.sha512",
-        "blazorise.icons.fontawesome.nuspec",
-        "lib/net6.0/Blazorise.Icons.FontAwesome.dll",
-        "lib/net7.0/Blazorise.Icons.FontAwesome.dll"
       ]
     },
     "Blazorise.Licensing/1.1.0": {
@@ -717,8 +687,7 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "Blazorise.Bootstrap >= 1.2.2",
-      "Blazorise.Icons.FontAwesome >= 1.2.2"
+      "Blazorise.Bootstrap >= 1.2.2"
     ]
   },
   "packageFolders": {
@@ -767,10 +736,6 @@
         "targetAlias": "net7.0",
         "dependencies": {
           "Blazorise.Bootstrap": {
-            "target": "Package",
-            "version": "[1.2.2, )"
-          },
-          "Blazorise.Icons.FontAwesome": {
             "target": "Package",
             "version": "[1.2.2, )"
           }

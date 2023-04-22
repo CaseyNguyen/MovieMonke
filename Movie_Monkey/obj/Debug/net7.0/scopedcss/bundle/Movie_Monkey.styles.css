@@ -1,15 +1,12 @@
 /* _content/Movie_Monkey/Pages/Index.razor.rz.scp.css */
-.convoBlock[b-l65puzrmv1] {
-    display: flex;
-    column-gap: 20px;
-}
+/*
+    Index.razor.css
+    Casey Nguyen and Marisah Goo for 2023 UCLA Hackathon
+    4.21.2023 - 4.23.2023
+    PURPOSE: Styling for the landing page.
+*/
 
-.convoBlock img[b-l65puzrmv1]{
-    object-fit: cover;
-    width: 673px;
-    height: 452px;
-}
-
-.textBlock[b-l65puzrmv1]{
-    width: 40%;
+.convoPic[b-l65puzrmv1]{
+    height: 300px;
+    width: 650px;
 }

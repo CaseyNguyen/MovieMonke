@@ -1,14 +1,11 @@
-﻿.convoBlock {
-    display: flex;
-    column-gap: 20px;
-}
+﻿/*
+    Index.razor.css
+    Casey Nguyen and Marisah Goo for 2023 UCLA Hackathon
+    4.21.2023 - 4.23.2023
+    PURPOSE: Styling for the landing page.
+*/
 
-.convoBlock img{
-    object-fit: cover;
-    width: 673px;
-    height: 452px;
-}
-
-.textBlock{
-    width: 40%;
+.convoPic{
+    height: 300px;
+    width: 650px;
 }

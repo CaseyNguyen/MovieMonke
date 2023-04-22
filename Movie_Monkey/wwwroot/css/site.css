@@ -27,6 +27,7 @@
         content: "An error has occurred."
     }
 
+
 body {
     width: 95%;
     margin: auto;
@@ -34,13 +35,28 @@ body {
     color: white;
 }
 
-.yellowDivider {
-    height: 10px;
-    width: 80%;
-    background-image: linear-gradient(#FFFF3F, #AACC00);
-    )
+h3{
+    font-size: 14px;
 }
 
+.topItem{
+    font-size: 20px;
+}
+
+.topProfile{
+    height: 25px;
+    width: 25px;
+}
+
+.yellowDivider {
+    height: 2px;
+    width: 90%;
+    background-image: linear-gradient(#FFFF3F, #FFB700);
+}
+
+.blankDivider{
+    height: 20px;
+}
 
 .profile_pic img{
     border-radius: 50%;

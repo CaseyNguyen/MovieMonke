@@ -8,7 +8,6 @@ C:\Users\casey\Documents\GitHub\MovieMonkey\Movie_Monkey\bin\Debug\net7.0\Movie_
 C:\Users\casey\Documents\GitHub\MovieMonkey\Movie_Monkey\bin\Debug\net7.0\Movie_Monkey.pdb
 C:\Users\casey\Documents\GitHub\MovieMonkey\Movie_Monkey\bin\Debug\net7.0\Blazorise.dll
 C:\Users\casey\Documents\GitHub\MovieMonkey\Movie_Monkey\bin\Debug\net7.0\Blazorise.Bootstrap.dll
-C:\Users\casey\Documents\GitHub\MovieMonkey\Movie_Monkey\bin\Debug\net7.0\Blazorise.Icons.FontAwesome.dll
 C:\Users\casey\Documents\GitHub\MovieMonkey\Movie_Monkey\bin\Debug\net7.0\Blazorise.Licensing.dll
 C:\Users\casey\Documents\GitHub\MovieMonkey\Movie_Monkey\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
 C:\Users\casey\Documents\GitHub\MovieMonkey\Movie_Monkey\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll

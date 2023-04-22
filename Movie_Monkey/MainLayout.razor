@@ -1,12 +1,22 @@
 ﻿@inherits LayoutComponentBase
 
 <header>
-	<Bar Mode="BarMode.Horizontal">
+	<Bar Breakpoint="Breakpoint.Desktop" Mode="BarMode.Horizontal">
 		<BarBrand>
 			<BarLink To="/">
 				<img src="assets/MovieMonkeyDarkMode.png" />
 			</BarLink>
 		</BarBrand>
+		<BarMenu>
+			<BarEnd>
+				<BarItem>
+					<p class="topItem">FAQ</p>
+				</BarItem>
+				<BarItem>
+					<img class="topProfile" src="assets/Profile.png" />
+				</BarItem>
+			</BarEnd>
+		</BarMenu>
 	</Bar>
 </header>
 <main> @Body </main>
