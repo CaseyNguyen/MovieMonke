@@ -39,3 +39,5 @@ C:\Users\casey\Documents\GitHub\MovieMonkey\Movie_Monkey\obj\Debug\net7.0\refint
 C:\Users\casey\Documents\GitHub\MovieMonkey\Movie_Monkey\obj\Debug\net7.0\Movie_Monkey.pdb
 C:\Users\casey\Documents\GitHub\MovieMonkey\Movie_Monkey\obj\Debug\net7.0\Movie_Monkey.genruntimeconfig.cache
 C:\Users\casey\Documents\GitHub\MovieMonkey\Movie_Monkey\obj\Debug\net7.0\ref\Movie_Monkey.dll
+C:\Users\casey\Documents\GitHub\MovieMonkey\Movie_Monkey\obj\Debug\net7.0\scopedcss\Pages\Index.razor.rz.scp.css
+C:\Users\casey\Documents\GitHub\MovieMonkey\Movie_Monkey\obj\Debug\net7.0\scopedcss\projectbundle\Movie_Monkey.bundle.scp.css

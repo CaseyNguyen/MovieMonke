@@ -1,6 +1,18 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Movie_Monkey.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Movie_Monkey.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\MovieMonkeyDarkMode.png",
+      "PackagePath": "staticwebassets\\assets\\MovieMonkeyDarkMode.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\mainpage\\Find_Yourself_Waterview.jpg",
+      "PackagePath": "staticwebassets\\assets\\mainpage\\Find_Yourself_Waterview.jpg"
+    },
+    {
       "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

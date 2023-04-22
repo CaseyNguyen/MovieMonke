@@ -1,0 +1,14 @@
+.convoBlock[b-l65puzrmv1] {
+    display: flex;
+    column-gap: 20px;
+}
+
+.convoBlock img[b-l65puzrmv1]{
+    object-fit: cover;
+    width: 673px;
+    height: 452px;
+}
+
+.textBlock[b-l65puzrmv1]{
+    width: 40%;
+}
