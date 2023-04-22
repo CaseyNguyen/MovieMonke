@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "gRquYyekiEyXtjr3TYiUjVK8FBclNx0jX5u6lwtx1Ks=",
+  "Hash": "ad2zYIdkUWIzFTDxOL0SZcXbrKxYrAVS1nqoasdeQ+I=",
   "Source": "Movie_Monkey",
   "BasePath": "_content/Movie_Monkey",
   "Mode": "Default",
@@ -731,6 +731,23 @@
       "OriginalItemSpec": "wwwroot\\assets\\mainpage\\Find_Yourself_Waterview.jpg"
     },
     {
+      "Identity": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\mainpage\\Spirited_Away_VERTICAL 1.png",
+      "SourceId": "Movie_Monkey",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\",
+      "BasePath": "_content/Movie_Monkey",
+      "RelativePath": "assets/mainpage/Spirited_Away_VERTICAL 1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\mainpage\\Spirited_Away_VERTICAL 1.png"
+    },
+    {
       "Identity": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\MovieMonkeyDarkMode.png",
       "SourceId": "Movie_Monkey",
       "SourceType": "Discovered",
@@ -746,6 +763,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\MovieMonkeyDarkMode.png"
+    },
+    {
+      "Identity": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\mrqueen\\Mr_Queen_Heo_Gyun_Heo_Nanseolheon_Memorial_Park 1.png",
+      "SourceId": "Movie_Monkey",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\",
+      "BasePath": "_content/Movie_Monkey",
+      "RelativePath": "assets/mrqueen/Mr_Queen_Heo_Gyun_Heo_Nanseolheon_Memorial_Park 1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\mrqueen\\Mr_Queen_Heo_Gyun_Heo_Nanseolheon_Memorial_Park 1.png"
     },
     {
       "Identity": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\Profile.png",

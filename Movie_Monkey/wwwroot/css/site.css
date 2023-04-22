@@ -29,7 +29,7 @@
 
 
 body {
-    width: 95%;
+    width: 100%;
     margin: auto;
     background-color: #262626;
     color: white;
@@ -37,6 +37,11 @@ body {
 
 h3{
     font-size: 14px;
+}
+
+.layout{
+    width: 95%;
+    margin: auto;
 }
 
 .topItem{
@@ -64,3 +69,34 @@ h3{
     height: 500px;
     justify-content: center;
 }
+
+/*Header*/
+header {
+    background-color: black;
+    height: 60px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+}
+
+li {
+    float: left;
+}
+
+    li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
+
+        /* Change the link color to #111 (black) on hover */
+        li a:hover {
+            background-color: #111;
+        }

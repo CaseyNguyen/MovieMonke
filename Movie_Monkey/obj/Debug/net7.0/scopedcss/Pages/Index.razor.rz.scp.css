@@ -5,7 +5,8 @@
     PURPOSE: Styling for the landing page.
 */
 
-.convoPic[b-l65puzrmv1]{
-    height: 300px;
-    width: 650px;
+.placeholderBlock[b-l65puzrmv1]{
+    height: 240px;
+    width: 180px;
+    background-color: grey;
 }

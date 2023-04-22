@@ -6,7 +6,15 @@
     PURPOSE: Styling for the landing page.
 */
 
-.convoPic[b-l65puzrmv1]{
-    height: 300px;
-    width: 650px;
+.placeholderBlock[b-l65puzrmv1]{
+    height: 240px;
+    width: 180px;
+    background-color: grey;
+}
+/* _content/Movie_Monkey/Pages/MrQueen.razor.rz.scp.css */
+.hero[b-u0atj3ddlm]{
+    background-image: url("'../wwwroot/assets/mrqueen/Mr_Queen_Heo_Gyun_Heo_Nanseolheon_Memorial_Park 1.png'");
+    width: 1552px;
+    height: 866px;
+    object-fit: cover;
 }
