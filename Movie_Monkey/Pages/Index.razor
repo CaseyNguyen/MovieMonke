@@ -7,6 +7,7 @@
 
 @page "/"
 
+<Slider TValue="decimal" Value="0m" Max="100m" />
 <div class="containerHold">
 	<img src="assets/mainpage/hero.png" />
 	<div class="heroText">
@@ -19,10 +20,58 @@
 </div>
 
 <body>
-	<!--Add Carousel-->
 	<div class="layout">
+		<h2>Explore Community Collections</h2>
+		<div class="mainYellowDivider"></div>
+		<div class="blankDivider"></div>
+		<Row>
+			<Column ColumnSize="ColumnSize.IsQuarter">
+				<a>
+					<img src="assets/mainpage/Swoonworthy.png" />
+				</a>
+			</Column>
+			<Column ColumnSize="ColumnSize.IsQuarter">
+				<a>
+					<img src="assets/mainpage/AnimeHits.png" />
+				</a>
+			</Column>
+			<Column ColumnSize="ColumnSize.IsQuarter">
+				<a>
+					<img src="assets/mainpage/Imperial.png" />
+				</a>
+			</Column>
+			<Column ColumnSize="ColumnSize.IsQuarter">
+				<a>
+					<img src="assets/mainpage/NetflixDramas.png" />
+				</a>
+			</Column>
+		</Row>
+		<div class="bigDivider"></div>
+		<h2>Join the Conversation!</h2>
+		<div class="mainYellowDivider"></div>
+		<div class="blankDivider"></div>
+		<!--Conversation Block-->
+		<Row>
+			<Column ColumnSize = "ColumnSize.Is5">
+				<img style="height: 280px;" src="assets/mainpage/Find_Yourself_Waterview.jpg" />
+			</Column>
+			<Column ColumnSize="ColumnSize.Is5">
+				<h3>TRAVEL TO CHINA</h3>
+				<h4>Locations from the biggest year in C-Drama</h4>
+				<p>
+					The infamous Korean game neolttwigi played by Queen Cheorin (Shin Hye-sun).
+					<br /><br />
+					Better known as a traditional outdoor game of Korean women and girls that
+					is typically enjoyed on traditional holidays, neolttwigi is typically
+					enjoyed on traditional holidays such as Korean New Year, Chuseok, and Dano.
+					Neolttwigi is similar to seesaw, except that participants stand on each end
+					of the Neol and jump, propelling the person opposite into the air.
+				</p>
+			</Column>
+		</Row>
+		<div class="bigDivider"></div>
 		<h2>The World of Hayao Miyazaki</h2>
-		<div class="yellowDivider"></div>
+		<div class="mainYellowDivider"></div>
 		<div class="blankDivider"></div>
 		<Carousel ShowIndicators="false">
 			<CarouselSlide Name="1">
@@ -58,31 +107,6 @@
 				</Row>
 			</CarouselSlide>
 		</Carousel>
-		<div class="blankDivider"></div>
-
-		<div class="blankDivider"></div>
-		<h2>Join the Conversation!</h2>
-		<div class="yellowDivider"></div>
-		<div class="blankDivider"></div>
-		<!--Conversation Block-->
-		<Row>
-			<Column ColumnSize = "ColumnSize.Is5">
-				<img style="height: 280px;" src="assets/mainpage/Find_Yourself_Waterview.jpg" />
-			</Column>
-			<Column ColumnSize="ColumnSize.Is5">
-				<h3>TRAVEL TO CHINA</h3>
-				<h4>Locations from the biggest year in C-Drama</h4>
-				<p>
-					The infamous Korean game neolttwigi played by Queen Cheorin (Shin Hye-sun).
-					<br /><br />
-					Better known as a traditional outdoor game of Korean women and girls that
-					is typically enjoyed on traditional holidays, neolttwigi is typically
-					enjoyed on traditional holidays such as Korean New Year, Chuseok, and Dano.
-					Neolttwigi is similar to seesaw, except that participants stand on each end
-					of the Neol and jump, propelling the person opposite into the air.
-				</p>
-			</Column>
-		</Row>
 	</div>
 </body>
 
