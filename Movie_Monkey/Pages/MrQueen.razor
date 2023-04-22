@@ -1,18 +1,49 @@
 ﻿@page "/mrqueen"
 
-<div class="container">
-		<img class="image" src="/assets/mrqueen/Mr_Queen_Heo_Gyun_Heo_Nanseolheon_Memorial_Park 1.png"/>
-		<p>HELLO</p>
-</div>
+<body>
 	<div class="layout">
 		<h2>Highlights</h2>
-		<h3>Gungnamji Pond</h3>
+		<div class="bigYellowDivider"></div>
+		<div class="blankDivider"></div>
+		<Row>
+			<Column ColumnSize="ColumnSize.IsQuarter">
+				<a href="#1">
+					<img src="assets/mrqueen/Highlight1.png" />
+				</a>
+			</Column>
+			<Column ColumnSize="ColumnSize.IsQuarter">
+				<img src="assets/mrqueen/Highlight2.png" />
+			</Column>
+			<Column ColumnSize="ColumnSize.IsQuarter">
+				<img src="assets/mrqueen/Highlight3.png" />
+			</Column>
+			<Column ColumnSize="ColumnSize.IsQuarter">
+				<img src="assets/mrqueen/Highlight4.png" />
+			</Column>
+		</Row>
+		<div class="medDivider"></div>
+		<!--Start enlarged-->
+		<h3 id="#1">Gungnamji Pond</h3>
 		<div class="yellowDivider"></div>
+		<div class="blankDivider"></div>
+		<Row>
+			<Column ColumnSize="ColumnSize.IsHalf">
+				<img src="assets/mrqueen/Highlight1_Enlarged.png" />
+			</Column>
+			<Column ColumnSize="ColumnSize.IsHalf">
+				<p>Lorem Ipsum</p>
+			</Column>
+		</Row>
+		<div class="blankDivider"></div>
 		<h3>Seongyojang House</h3>
-		<div class="yellowDivider"></div>
-</div>
 
+		<div class="yellowDivider"></div>
+	</div>
+</body>
 
 @code {
-
+	string getString(int index)
+	{
+		return ("/assets/mrqueen/Highlight" + index.ToString() + ".png");
+	}
 }

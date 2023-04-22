@@ -40,4 +40,3 @@ C:\Users\casey\Documents\GitHub\MovieMonkey\Movie_Monkey\obj\Debug\net7.0\Movie_
 C:\Users\casey\Documents\GitHub\MovieMonkey\Movie_Monkey\obj\Debug\net7.0\ref\Movie_Monkey.dll
 C:\Users\casey\Documents\GitHub\MovieMonkey\Movie_Monkey\obj\Debug\net7.0\scopedcss\Pages\Index.razor.rz.scp.css
 C:\Users\casey\Documents\GitHub\MovieMonkey\Movie_Monkey\obj\Debug\net7.0\scopedcss\projectbundle\Movie_Monkey.bundle.scp.css
-C:\Users\casey\Documents\GitHub\MovieMonkey\Movie_Monkey\obj\Debug\net7.0\scopedcss\Pages\MrQueen.razor.rz.scp.css

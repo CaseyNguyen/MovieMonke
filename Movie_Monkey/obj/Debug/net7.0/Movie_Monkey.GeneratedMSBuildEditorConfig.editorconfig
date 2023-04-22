@@ -24,6 +24,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = TWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/casey/Documents/GitHub/MovieMonkey/Movie_Monkey/Pages/MrQueen.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXJRdWVlbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/casey/Documents/GitHub/MovieMonkey/Movie_Monkey/Pages/Overview1.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3ZlcnZpZXcxLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
@@ -39,10 +43,6 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/casey/Documents/GitHub/MovieMonkey/Movie_Monkey/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-l65puzrmv1
-
-[C:/Users/casey/Documents/GitHub/MovieMonkey/Movie_Monkey/Pages/MrQueen.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXJRdWVlbi5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = b-u0atj3ddlm
 
 [C:/Users/casey/Documents/GitHub/MovieMonkey/Movie_Monkey/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
