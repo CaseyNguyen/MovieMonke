@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Movie_Monkey.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Movie_Monkey.props",
+      "PackagePath": "build\\Movie_Monkey.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Movie_Monkey.props",
+      "PackagePath": "buildMultiTargeting\\Movie_Monkey.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Movie_Monkey.props",
+      "PackagePath": "buildTransitive\\Movie_Monkey.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
