@@ -53,6 +53,10 @@
       "PackagePath": "staticwebassets\\assets\\MovieMonkeyWords.png"
     },
     {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\Nothing.png",
+      "PackagePath": "staticwebassets\\assets\\Nothing.png"
+    },
+    {
       "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\Profile.png",
       "PackagePath": "staticwebassets\\assets\\Profile.png"
     },
@@ -77,12 +81,108 @@
       "PackagePath": "staticwebassets\\assets\\ThumbsUp.png"
     },
     {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\mainpage\\1.png",
+      "PackagePath": "staticwebassets\\assets\\mainpage\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\mainpage\\AnimeHits.png",
+      "PackagePath": "staticwebassets\\assets\\mainpage\\AnimeHits.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\mainpage\\Carousel1\\1.png",
+      "PackagePath": "staticwebassets\\assets\\mainpage\\Carousel1\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\mainpage\\Carousel1\\2.png",
+      "PackagePath": "staticwebassets\\assets\\mainpage\\Carousel1\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\mainpage\\Carousel1\\3.png",
+      "PackagePath": "staticwebassets\\assets\\mainpage\\Carousel1\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\mainpage\\Carousel1\\4.png",
+      "PackagePath": "staticwebassets\\assets\\mainpage\\Carousel1\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\mainpage\\Carousel1\\5.png",
+      "PackagePath": "staticwebassets\\assets\\mainpage\\Carousel1\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\mainpage\\Carousel1\\6.png",
+      "PackagePath": "staticwebassets\\assets\\mainpage\\Carousel1\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\mainpage\\Carousel2\\1.png",
+      "PackagePath": "staticwebassets\\assets\\mainpage\\Carousel2\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\mainpage\\Carousel2\\2.png",
+      "PackagePath": "staticwebassets\\assets\\mainpage\\Carousel2\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\mainpage\\Carousel2\\3.png",
+      "PackagePath": "staticwebassets\\assets\\mainpage\\Carousel2\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\mainpage\\Carousel2\\4.png",
+      "PackagePath": "staticwebassets\\assets\\mainpage\\Carousel2\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\mainpage\\Carousel2\\5.png",
+      "PackagePath": "staticwebassets\\assets\\mainpage\\Carousel2\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\mainpage\\Carousel2\\6.png",
+      "PackagePath": "staticwebassets\\assets\\mainpage\\Carousel2\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\mainpage\\Carousel3\\1.png",
+      "PackagePath": "staticwebassets\\assets\\mainpage\\Carousel3\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\mainpage\\Carousel3\\2.png",
+      "PackagePath": "staticwebassets\\assets\\mainpage\\Carousel3\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\mainpage\\Carousel3\\3.png",
+      "PackagePath": "staticwebassets\\assets\\mainpage\\Carousel3\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\mainpage\\Carousel3\\4.png",
+      "PackagePath": "staticwebassets\\assets\\mainpage\\Carousel3\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\mainpage\\Carousel3\\5.png",
+      "PackagePath": "staticwebassets\\assets\\mainpage\\Carousel3\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\mainpage\\Carousel3\\6.png",
+      "PackagePath": "staticwebassets\\assets\\mainpage\\Carousel3\\6.png"
+    },
+    {
       "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\mainpage\\Find_Yourself_Waterview.jpg",
       "PackagePath": "staticwebassets\\assets\\mainpage\\Find_Yourself_Waterview.jpg"
     },
     {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\mainpage\\Imperial.png",
+      "PackagePath": "staticwebassets\\assets\\mainpage\\Imperial.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\mainpage\\NetflixDramas.png",
+      "PackagePath": "staticwebassets\\assets\\mainpage\\NetflixDramas.png"
+    },
+    {
       "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\mainpage\\Spirited_Away_VERTICAL 1.png",
       "PackagePath": "staticwebassets\\assets\\mainpage\\Spirited_Away_VERTICAL 1.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\mainpage\\Swoonworthy.png",
+      "PackagePath": "staticwebassets\\assets\\mainpage\\Swoonworthy.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\mainpage\\hero.png",
+      "PackagePath": "staticwebassets\\assets\\mainpage\\hero.png"
     },
     {
       "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\mrqueen\\Highlight1.png",
