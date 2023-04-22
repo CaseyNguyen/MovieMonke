@@ -5,16 +5,76 @@
       "PackagePath": "staticwebassets\\Movie_Monkey.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\AddToCollection.png",
+      "PackagePath": "staticwebassets\\assets\\AddToCollection.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\Eye.png",
+      "PackagePath": "staticwebassets\\assets\\Eye.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\Eye_Off.png",
+      "PackagePath": "staticwebassets\\assets\\Eye_Off.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\Link.png",
+      "PackagePath": "staticwebassets\\assets\\Link.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\Location.png",
+      "PackagePath": "staticwebassets\\assets\\Location.png"
+    },
+    {
       "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\Logo.ico",
       "PackagePath": "staticwebassets\\assets\\Logo.ico"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\MonkeChat.png",
+      "PackagePath": "staticwebassets\\assets\\MonkeChat.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\MonkeDid.png",
+      "PackagePath": "staticwebassets\\assets\\MonkeDid.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\MonkeSee.png",
+      "PackagePath": "staticwebassets\\assets\\MonkeSee.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\Monkey+Arms.png",
+      "PackagePath": "staticwebassets\\assets\\Monkey+Arms.png"
     },
     {
       "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\MovieMonkeyDarkMode.png",
       "PackagePath": "staticwebassets\\assets\\MovieMonkeyDarkMode.png"
     },
     {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\MovieMonkeyWords.png",
+      "PackagePath": "staticwebassets\\assets\\MovieMonkeyWords.png"
+    },
+    {
       "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\Profile.png",
       "PackagePath": "staticwebassets\\assets\\Profile.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\SampleProfile1.png",
+      "PackagePath": "staticwebassets\\assets\\SampleProfile1.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\SampleProfile2.png",
+      "PackagePath": "staticwebassets\\assets\\SampleProfile2.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\SampleProfile3.png",
+      "PackagePath": "staticwebassets\\assets\\SampleProfile3.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\Socials.png",
+      "PackagePath": "staticwebassets\\assets\\Socials.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\ThumbsUp.png",
+      "PackagePath": "staticwebassets\\assets\\ThumbsUp.png"
     },
     {
       "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\mainpage\\Find_Yourself_Waterview.jpg",
@@ -59,6 +119,10 @@
     {
       "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\mrqueen\\Mr_Queen_Heo_Gyun_Heo_Nanseolheon_Memorial_Park 1.png",
       "PackagePath": "staticwebassets\\assets\\mrqueen\\Mr_Queen_Heo_Gyun_Heo_Nanseolheon_Memorial_Park 1.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\mrqueen\\hero.png",
+      "PackagePath": "staticwebassets\\assets\\mrqueen\\hero.png"
     },
     {
       "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\css\\fonts\\Inter.zip",
