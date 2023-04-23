@@ -25,6 +25,14 @@
       "PackagePath": "staticwebassets\\assets\\Link.png"
     },
     {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\Load.png",
+      "PackagePath": "staticwebassets\\assets\\Load.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\Load_Hover.png",
+      "PackagePath": "staticwebassets\\assets\\Load_Hover.png"
+    },
+    {
       "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\Location.png",
       "PackagePath": "staticwebassets\\assets\\Location.png"
     },
@@ -63,6 +71,10 @@
     {
       "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\MovieMonkeyDarkMode.png",
       "PackagePath": "staticwebassets\\assets\\MovieMonkeyDarkMode.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\MovieMonkeyDarkMode_Hover.png",
+      "PackagePath": "staticwebassets\\assets\\MovieMonkeyDarkMode_Hover.png"
     },
     {
       "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\MovieMonkeyWords.png",
@@ -159,6 +171,10 @@
     {
       "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\bananas\\cdrama_hover.png",
       "PackagePath": "staticwebassets\\assets\\bananas\\cdrama_hover.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\hero.png",
+      "PackagePath": "staticwebassets\\assets\\hero.png"
     },
     {
       "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\mainpage\\1.png",
@@ -263,10 +279,6 @@
     {
       "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\mainpage\\Swoonworthy.png",
       "PackagePath": "staticwebassets\\assets\\mainpage\\Swoonworthy.png"
-    },
-    {
-      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\mainpage\\hero.png",
-      "PackagePath": "staticwebassets\\assets\\mainpage\\hero.png"
     },
     {
       "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\meteorgarden\\Highlight1.png",

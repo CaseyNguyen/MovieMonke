@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "S3jfNfLeU497X24/IUaePhhd+L4Czw+Fej8E1Uaytlg=",
+  "Hash": "JEKKkoSaFqa/LnSrYp/RmowD7BzNgz/d6tSFY2p9mU4=",
   "Source": "Movie_Monkey",
   "BasePath": "_content/Movie_Monkey",
   "Mode": "Default",
@@ -1003,6 +1003,23 @@
       "OriginalItemSpec": "wwwroot\\assets\\Eye_Off.png"
     },
     {
+      "Identity": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\hero.png",
+      "SourceId": "Movie_Monkey",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\",
+      "BasePath": "_content/Movie_Monkey",
+      "RelativePath": "assets/hero.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\hero.png"
+    },
+    {
       "Identity": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\Link.png",
       "SourceId": "Movie_Monkey",
       "SourceType": "Discovered",
@@ -1018,6 +1035,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\Link.png"
+    },
+    {
+      "Identity": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\Load.png",
+      "SourceId": "Movie_Monkey",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\",
+      "BasePath": "_content/Movie_Monkey",
+      "RelativePath": "assets/Load.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\Load.png"
+    },
+    {
+      "Identity": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\Load_Hover.png",
+      "SourceId": "Movie_Monkey",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\",
+      "BasePath": "_content/Movie_Monkey",
+      "RelativePath": "assets/Load_Hover.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\Load_Hover.png"
     },
     {
       "Identity": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\Location.png",
@@ -1411,23 +1462,6 @@
       "OriginalItemSpec": "wwwroot\\assets\\mainpage\\Find_Yourself_Waterview.jpg"
     },
     {
-      "Identity": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\mainpage\\hero.png",
-      "SourceId": "Movie_Monkey",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\",
-      "BasePath": "_content/Movie_Monkey",
-      "RelativePath": "assets/mainpage/hero.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\mainpage\\hero.png"
-    },
-    {
       "Identity": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\mainpage\\Imperial.png",
       "SourceId": "Movie_Monkey",
       "SourceType": "Discovered",
@@ -1800,6 +1834,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\MovieMonkeyDarkMode.png"
+    },
+    {
+      "Identity": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\MovieMonkeyDarkMode_Hover.png",
+      "SourceId": "Movie_Monkey",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\",
+      "BasePath": "_content/Movie_Monkey",
+      "RelativePath": "assets/MovieMonkeyDarkMode_Hover.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\MovieMonkeyDarkMode_Hover.png"
     },
     {
       "Identity": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\MovieMonkeyWords.png",

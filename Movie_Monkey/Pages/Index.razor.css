@@ -5,6 +5,10 @@
     PURPOSE: Styling for the landing page.
 */
 
-img{
-    border-radius: 10px;
+.zoomable img{
+    transition: transform 0.5s;
+}
+
+.zoomable img:hover{
+    transform: scale(1.1);
 }
