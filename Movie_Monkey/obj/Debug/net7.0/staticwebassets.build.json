@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "iw+fubC0TezVSf3UfB3G64ekpMqavSLTuF9PGnxkq14=",
+  "Hash": "+4FS9no2gv1z6fQD+tpkMtPW6RSlLSEEi/tKIfIAnb8=",
   "Source": "Movie_Monkey",
   "BasePath": "_content/Movie_Monkey",
   "Mode": "Default",
@@ -1545,6 +1545,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\Profile.png"
+    },
+    {
+      "Identity": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\profile\\edit_profile.png",
+      "SourceId": "Movie_Monkey",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\",
+      "BasePath": "_content/Movie_Monkey",
+      "RelativePath": "assets/profile/edit_profile.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\profile\\edit_profile.png"
+    },
+    {
+      "Identity": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\profile\\profiile.png",
+      "SourceId": "Movie_Monkey",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\",
+      "BasePath": "_content/Movie_Monkey",
+      "RelativePath": "assets/profile/profiile.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\profile\\profiile.png"
     },
     {
       "Identity": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\SampleProfile1.png",

@@ -45,6 +45,10 @@
     background-image: linear-gradient(#FFFF3F, #AACC00);
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     font-family: 'Inter', 'Times New Roman', Times, serif;
     width: 100%;

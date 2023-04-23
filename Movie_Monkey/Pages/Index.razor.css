@@ -4,3 +4,7 @@
     4.21.2023 - 4.23.2023
     PURPOSE: Styling for the landing page.
 */
+
+img{
+    border-radius: 10px;
+}

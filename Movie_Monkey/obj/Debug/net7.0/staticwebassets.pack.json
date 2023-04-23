@@ -225,6 +225,14 @@
       "PackagePath": "staticwebassets\\assets\\mrqueen\\hero.png"
     },
     {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\profile\\edit_profile.png",
+      "PackagePath": "staticwebassets\\assets\\profile\\edit_profile.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\profile\\profiile.png",
+      "PackagePath": "staticwebassets\\assets\\profile\\profiile.png"
+    },
+    {
       "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\css\\fonts\\Inter.zip",
       "PackagePath": "staticwebassets\\css\\fonts\\Inter.zip"
     },

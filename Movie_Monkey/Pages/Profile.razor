@@ -7,9 +7,26 @@
 @page "/profile"
 
 <body>
-	<h1></h1>
+	<div class="bigDivider"></div>
+	<div style="text-align: center; margin:auto;" class="layout">
+		<img src="assets/profile/profiile.png" />
+		<h1>Casey</h1>
+		<h4>@at()mudklipz</h4>
+		<div class="medDivider">
+		</div>
+		<img src="/assets/profile/edit_profile.png" />
+		<Row>
+			<Column ColumnSize="ColumnSize.Is5">
+				HELLO
+			</Column>
+		</Row>
+	</div>
+
 </body>
 
 @code {
-
+	string at()
+	{
+		return "@";
+	}
 }

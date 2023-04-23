@@ -12,13 +12,15 @@
 	<div class="heroText">
 		<h1>Monke See, Monke Do</h1>
 		<p>Travel vicariously through your favorite Asian films and dramas. What are you waiting for?</p>
-		<button>
-			<img src="assets/Nothing.png" />
-		</button>
+		<Link To="#main">
+			<img style ="height: 49px; width: auto;" src="assets/Nothing.png" />
+		</Link>
+		
 	</div>
+
 </div>
 
-<body>
+<body id="main">
 	<div class="layout">
 		<h2>Explore Community Collections</h2>
 		<div class="mainYellowDivider"></div>
@@ -50,7 +52,7 @@
 		<h2>Monke's Most Popular</h2>
 		<div class="mainYellowDivider"></div>
 		<div class="blankDivider"></div>
-		<Carousel ShowIndicators="false" Autoplay=false AutoplayRepeat=false>
+		<Carousel>
 			<CarouselSlide Name="1">
 				<Row>
 					<Column ColumnSize = "ColumnSize.Is2">
@@ -73,13 +75,35 @@
 					</Column>
 				</Row>
 			</CarouselSlide>
+			<CarouselSlide Name="2">
+				<Row>
+					<Column ColumnSize="ColumnSize.Is2">
+						<Image Source="/assets/mainpage/Carousel1/1.png" Display: block />
+					</Column>
+					<Column ColumnSize="ColumnSize.Is2">
+						<Image Source="/assets/mainpage/Carousel1/2.png" Display: block />
+					</Column>
+					<Column ColumnSize="ColumnSize.Is2">
+						<Image Source="/assets/mainpage/Carousel1/3.png" Display: block />
+					</Column>
+					<Column ColumnSize="ColumnSize.Is2">
+						<Image Source="/assets/mainpage/Carousel1/4.png" Display: block />
+					</Column>
+					<Column ColumnSize="ColumnSize.Is2">
+						<Image Source="/assets/mainpage/Carousel1/5.png" Display: block />
+					</Column>
+					<Column ColumnSize="ColumnSize.Is2">
+						<Image Source="/assets/mainpage/Carousel1/6.png" Display: block />
+					</Column>
+				</Row>
+			</CarouselSlide>
 		</Carousel>
 		<div class="bigDivider"></div>
 
 		<h2>Critically Acclaimed Film and TV</h2>
 		<div class="mainYellowDivider"></div>
 		<div class="blankDivider"></div>
-		<Carousel >
+		<Carousel Autoplay=false AutoplayRepeat=false>
 			<CarouselSlide Name="1">
 				<Row>
 					<Column ColumnSize = "ColumnSize.Is2">
@@ -127,18 +151,20 @@
 		</Carousel>
 		<div class="bigDivider"></div>
 
-		<h2>Join the Conversation!</h2>
+		<h2>Going bananas over...</h2>
 		<div class="mainYellowDivider"></div>
-		<div class="blankDivider"></div>
+		<div class="medDivider"></div>
 		<!--Conversation Block-->
 		<Row>
 			<Column ColumnSize = "ColumnSize.Is5">
-				<img style="height: 280px;" src="assets/mainpage/Find_Yourself_Waterview.jpg" />
+				<img style="height: 320px; border-radius: 10px;" src="assets/mainpage/Find_Yourself_Waterview.jpg" />
 			</Column>
 			<Column ColumnSize="ColumnSize.Is5">
-				<h3>TRAVEL TO CHINA</h3>
-				<h4>Locations from the biggest year in C-Drama</h4>
-				<p>
+				<h3 style="font-size: 16px;">TRAVEL TO CHINA</h3>
+				<div class="blankDivider"></div>
+				<h4 style="letter-spacing: 0px;">Locations from the biggest year in C-Drama</h4>
+				<div class="blankDivider"></div>
+				<p style="font-size: 18px; font-weight: 400;">
 					The infamous Korean game neolttwigi played by Queen Cheorin (Shin Hye-sun).
 					<br /><br />
 					Better known as a traditional outdoor game of Korean women and girls that
@@ -153,7 +179,7 @@
 		<h2>The World of Hayao Miyazaki</h2>
 		<div class="mainYellowDivider"></div>
 		<div class="blankDivider"></div>
-		<Carousel ShowIndicators="false" Autoplay=false AutoplayRepeat=false>
+		<Carousel Autoplay=false AutoplayRepeat=false>
 			<CarouselSlide Name="1">
 				<Row>
 					<Column ColumnSize = "ColumnSize.Is2">
@@ -169,6 +195,28 @@
 						<Image Source="/assets/mainpage/Carousel3/4.png" Display: block />
 					</Column>
 					<Column ColumnSize = "ColumnSize.Is2">
+						<Image Source="/assets/mainpage/Carousel3/5.png" Display: block />
+					</Column>
+					<Column ColumnSize="ColumnSize.Is2">
+						<Image Source="/assets/mainpage/Carousel3/6.png" Display: block />
+					</Column>
+				</Row>
+			</CarouselSlide>
+			<CarouselSlide Name="2">
+				<Row>
+					<Column ColumnSize="ColumnSize.Is2">
+						<Image Source="/assets/mainpage/Carousel3/1.png" Display: block />
+					</Column>
+					<Column ColumnSize="ColumnSize.Is2">
+						<Image Source="/assets/mainpage/Carousel3/2.png" Display: block />
+					</Column>
+					<Column ColumnSize="ColumnSize.Is2">
+						<Image Source="/assets/mainpage/Carousel3/3.png" Display: block />
+					</Column>
+					<Column ColumnSize="ColumnSize.Is2">
+						<Image Source="/assets/mainpage/Carousel3/4.png" Display: block />
+					</Column>
+					<Column ColumnSize="ColumnSize.Is2">
 						<Image Source="/assets/mainpage/Carousel3/5.png" Display: block />
 					</Column>
 					<Column ColumnSize="ColumnSize.Is2">
