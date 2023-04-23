@@ -1,9 +1,241 @@
 ﻿@page "/bananas"
 
 <body>
-	<h2>Bananas</h2>
+	<div class="layout">
+		<div class="medDivider"></div>
+		<h2>Bananas</h2>
+		<div class="blankDivider"></div>
+		<div class="bigYellowDivider"></div>
+		<div class="blankDivider"></div>
+		<h6>CREATED FOLDERS</h6>
+		<div class="blankDivider"></div>
+		@if (state == 0)
+		{
+			<img src="assets/bananas/anime_hover.png">
+			<button @onclick=activateDrama>
+				<div class="figure">
+					<img src="assets/bananas/cdrama.png" />
+					<img class="hover" src="assets/bananas/cdrama_hover.png" />
+				</div>
+			</button>
+			<div class="medDivider"></div>
+			<Row>
+				<!--First Column-->
+				<Column ColumnSize="ColumnSize.IsHalf">
+					<!--Within individual card-->
+					<Row>
+						<Column ColumnSize="ColumnSize.Is5">
+							<img src="assets/bananas/1.png">
+						</Column>
+						<Column ColumnSize="ColumnSize.Is7">
+							<Row>
+								<Column ColumnSize="ColumnSize.Is1">
+									<img style="padding-top: 6px;"src="assets/Location.png" />
+								</Column>
+								<Column ColumnSize="ColumnSize.Is11">
+									<h2>Yunika Vision</h2>
+									<h6>YOUR NAME</h6>
+								</Column>
+							</Row>
+						</Column>
+					</Row>
+					<div class="medDivider"></div>
+					<!--Within individual card-->
+					<Row>
+						<Column ColumnSize="ColumnSize.Is5">
+							<img src="assets/bananas/2.png">
+						</Column>
+						<Column ColumnSize="ColumnSize.Is7">
+							<Row>
+								<Column ColumnSize="ColumnSize.Is1">
+									<img style="padding-top: 6px;" src="assets/Location.png" />
+								</Column>
+								<Column ColumnSize="ColumnSize.Is11">
+									<h2>Sendai</h2>
+									<h6>JUJUTSU KAISEN</h6>
+								</Column>
+							</Row>
+						</Column>
+					</Row>
+					<div class="medDivider"></div>
+					<!--Within individual card-->
+					<Row>
+						<Column ColumnSize="ColumnSize.Is5">
+							<img src="assets/bananas/3.png">
+						</Column>
+						<Column ColumnSize="ColumnSize.Is7">
+							<Row>
+								<Column ColumnSize="ColumnSize.Is1">
+									<img style="padding-top: 6px;" src="assets/Location.png" />
+								</Column>
+								<Column ColumnSize="ColumnSize.Is11">
+									<h2>Shimonada Station</h2>
+									<h6>SPIRITED AWAY</h6>
+								</Column>
+							</Row>
+						</Column>
+					</Row>
+				</Column>
+				<!--Second Column-->
+				<Column ColumnSize="ColumnSize.IsHalf">
+					<!--Within individual card-->
+					<Row>
+						<Column ColumnSize="ColumnSize.Is5">
+							<img src="assets/bananas/4.png">
+						</Column>
+						<Column ColumnSize="ColumnSize.Is7">
+							<Row>
+								<Column ColumnSize="ColumnSize.Is1">
+									<img style="padding-top: 6px;" src="assets/Location.png" />
+								</Column>
+								<Column ColumnSize="ColumnSize.Is11">
+									<h2>Suga Shrine</h2>
+									<h6>YOUR NAME</h6>
+								</Column>
+							</Row>
+						</Column>
+					</Row>
+					<div class="medDivider"></div>
+					<!--Within individual card-->
+					<Row>
+						<Column ColumnSize="ColumnSize.Is5">
+							<img src="assets/bananas/5.png">
+						</Column>
+						<Column ColumnSize="ColumnSize.Is7">
+							<Row>
+								<Column ColumnSize="ColumnSize.Is1">
+									<img style="padding-top: 6px;" src="assets/Location.png" />
+								</Column>
+								<Column ColumnSize="ColumnSize.Is11">
+									<h2>Yokohama Port</h2>
+									<h6>BUNGO STRAY DOGS</h6>
+								</Column>
+							</Row>
+						</Column>
+					</Row>
+					<div class="medDivider"></div>
+					<!--Within individual card-->
+					<Row>
+						<Column ColumnSize="ColumnSize.Is5">
+							<img src="assets/bananas/6.png">
+						</Column>
+						<Column ColumnSize="ColumnSize.Is7">
+							<Row>
+								<Column ColumnSize="ColumnSize.Is1">
+									<img style="padding-top: 6px;" src="assets/Location.png" />
+								</Column>
+								<Column ColumnSize="ColumnSize.Is11">
+									<h2>Dogo Onsen</h2>
+									<h6>SPIRITED AWAY</h6>
+								</Column>
+							</Row>
+						</Column>
+					</Row>
+				</Column>
+			</Row>
+		}
+		else
+		{
+			<button @onclick=activateAnime>
+				<div class="figure">
+					<img src="assets/bananas/anime.png" />
+					<img class="hover" src="assets/bananas/anime_hover.png" />
+				</div>
+			</button>
+			<img src="assets/bananas/cdrama_hover.png" />
+			<div class="medDivider"></div>
+			<Row>
+				<!--First Column-->
+				<Column ColumnSize="ColumnSize.IsHalf">
+					<!--Within individual card-->
+					<Row>
+						<Column ColumnSize="ColumnSize.Is5">
+							<img src="assets/bananas/7.png">
+						</Column>
+						<Column ColumnSize="ColumnSize.Is7">
+							<Row>
+								<Column ColumnSize="ColumnSize.Is1">
+									<img style="padding-top: 6px;" src="assets/Location.png" />
+								</Column>
+								<Column ColumnSize="ColumnSize.Is11">
+									<h2>London Eye</h2>
+									<h6>METEOR GARDEN</h6>
+								</Column>
+							</Row>
+						</Column>
+					</Row>
+					<div class="medDivider"></div>
+					<!--Within individual card-->
+					<Row>
+						<Column ColumnSize="ColumnSize.Is5">
+							<img src="assets/bananas/8.png">
+						</Column>
+						<Column ColumnSize="ColumnSize.Is7">
+							<Row>
+								<Column ColumnSize="ColumnSize.Is1">
+									<img style="padding-top: 6px;" src="assets/Location.png" />
+								</Column>
+								<Column ColumnSize="ColumnSize.Is11">
+									<h2>ROOF at the Shanghai</h2>
+									<h6>THE RATIONAL LIFE</h6>
+								</Column>
+							</Row>
+						</Column>
+					</Row>
+				</Column>
+				<!--Second Column-->
+				<Column ColumnSize="ColumnSize.IsHalf">
+					<!--Within individual card-->
+					<Row>
+						<Column ColumnSize="ColumnSize.Is5">
+							<img src="assets/bananas/9.png">
+						</Column>
+						<Column ColumnSize="ColumnSize.Is7">
+							<Row>
+								<Column ColumnSize="ColumnSize.Is1">
+									<img style="padding-top: 6px;" src="assets/Location.png" />
+								</Column>
+								<Column ColumnSize="ColumnSize.Is11">
+									<h2>Sanya</h2>
+									<h6>METEOR GARDEN</h6>
+								</Column>
+							</Row>
+						</Column>
+					</Row>
+					<div class="medDivider"></div>
+					<!--Within individual card-->
+					<Row>
+						<Column ColumnSize="ColumnSize.Is5">
+							<img src="assets/bananas/10.png">
+						</Column>
+						<Column ColumnSize="ColumnSize.Is7">
+							<Row>
+								<Column ColumnSize="ColumnSize.Is1">
+									<img style="padding-top: 6px;" src="assets/Location.png" />
+								</Column>
+								<Column ColumnSize="ColumnSize.Is11">
+									<h2>Shenzhen Tiianqin Bay</h2>
+									<h6>FALLING INTO YOUR SMILE</h6>
+								</Column>
+							</Row>
+						</Column>
+					</Row>
+				</Column>
+			</Row>
+		}
+	</div>
 </body>
 
 @code {
+	private int state = 0;
 
+	void activateAnime()
+	{
+		state = 0;
+	} 
+
+	void activateDrama()
+	{
+		state = 1;
+	}
 }

@@ -39,6 +39,20 @@
     height: 95%;
 }
 
+.cardHold {
+    display: inline-block;
+    padding: 0;
+    position: relative;
+    color: white;
+    width: 100%;
+}
+
+.helpButton {
+    position: absolute;
+    top: 705px;
+    left: 760px;
+}
+
 .mainYellowDivider {
     height: 3px;
     width: 100%;
@@ -73,12 +87,25 @@ body {
         color: #D4D4D4;
     }
 
+
+a:hover{
+    color: yellow;
+    text-decoration: none;
+}
+
 h3{
     font-size: 26px;
 }
 
 h5{
     font-size: 16px;
+}
+
+h6 {
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    color: #D4D4D4;
 }
 
 .layout{
@@ -142,7 +169,7 @@ h2{
             bottom: 0;
             object-fit: contain;
             opacity: 0;
-            transition: opacity .2s;
+            transition: opacity .3s;
         }
 
     .figure:hover img.hover{
@@ -195,10 +222,15 @@ li {
         text-decoration: none;
     }
 
-    .right{
-        float:right;
-        padding-top: 5px;
-    }
+        li a:hover {
+            color: yellow;
+            transition: 0.4s;
+        }
+
+.right {
+    float: right;
+    padding-top: 7px;
+}
 
     li a:hover{
         outline:0 !important;

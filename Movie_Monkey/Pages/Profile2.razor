@@ -1,0 +1,47 @@
+﻿@page "/profile/2"
+
+<body>
+	<div class="bigDivider"></div>
+	<div style="text-align: center; margin:auto;" class="layout">
+		<img src="assets/profile2/profile.png" />
+		<h1>Marisah</h1>
+		<h4>@at()happigeon</h4>
+		<div class="medDivider">
+		</div>
+		<button>
+			<div class="figure">
+				<img src="assets/profile2/friends.png" />
+				<img class="hover" src="assets/profile2/friends_hover.png" />
+			</div>
+		</button>
+		<button>
+			<div class="figure">
+				<img src="assets/profile2/message.png" />
+				<img class="hover" src="assets/profile2/message_hover.png" />
+			</div>
+		</button>
+		<div class="medDivider"></div>
+			<Row>
+				<Column ColumnSize="ColumnSize.IsHalf">
+					<img style="padding-left: 100px;" src="assets/profile2/ripeness.png" />
+				</Column>
+				<Column ColumnSize="ColumnSize.IsHalf">
+					<img style="padding-right: 100px;" src="assets/profile2/collection.png" />
+				</Column>
+			</Row>
+		<div class="helpButton">
+			<Tooltip Text="HI!" Placement="TooltipPlacement.Top">
+				<Button>
+					<img src="assets/profile/help.png" />
+				</Button>
+			</Tooltip>
+		</div>
+	</div>
+</body>
+
+@code {
+	string at()
+	{
+		return "@";
+	}
+}

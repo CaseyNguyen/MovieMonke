@@ -81,6 +81,10 @@
       "PackagePath": "staticwebassets\\assets\\Profile.png"
     },
     {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\Profile_Hover.png",
+      "PackagePath": "staticwebassets\\assets\\Profile_Hover.png"
+    },
+    {
       "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\SampleProfile1.png",
       "PackagePath": "staticwebassets\\assets\\SampleProfile1.png"
     },
@@ -99,6 +103,62 @@
     {
       "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\ThumbsUp.png",
       "PackagePath": "staticwebassets\\assets\\ThumbsUp.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\bananas\\1.png",
+      "PackagePath": "staticwebassets\\assets\\bananas\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\bananas\\10.png",
+      "PackagePath": "staticwebassets\\assets\\bananas\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\bananas\\2.png",
+      "PackagePath": "staticwebassets\\assets\\bananas\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\bananas\\3.png",
+      "PackagePath": "staticwebassets\\assets\\bananas\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\bananas\\4.png",
+      "PackagePath": "staticwebassets\\assets\\bananas\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\bananas\\5.png",
+      "PackagePath": "staticwebassets\\assets\\bananas\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\bananas\\6.png",
+      "PackagePath": "staticwebassets\\assets\\bananas\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\bananas\\7.png",
+      "PackagePath": "staticwebassets\\assets\\bananas\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\bananas\\8.png",
+      "PackagePath": "staticwebassets\\assets\\bananas\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\bananas\\9.png",
+      "PackagePath": "staticwebassets\\assets\\bananas\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\bananas\\anime.png",
+      "PackagePath": "staticwebassets\\assets\\bananas\\anime.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\bananas\\anime_hover.png",
+      "PackagePath": "staticwebassets\\assets\\bananas\\anime_hover.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\bananas\\cdrama.png",
+      "PackagePath": "staticwebassets\\assets\\bananas\\cdrama.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\bananas\\cdrama_hover.png",
+      "PackagePath": "staticwebassets\\assets\\bananas\\cdrama_hover.png"
     },
     {
       "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\mainpage\\1.png",
@@ -285,12 +345,44 @@
       "PackagePath": "staticwebassets\\assets\\mrqueen\\hero.png"
     },
     {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\profile2\\collection.png",
+      "PackagePath": "staticwebassets\\assets\\profile2\\collection.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\profile2\\friends.png",
+      "PackagePath": "staticwebassets\\assets\\profile2\\friends.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\profile2\\friends_hover.png",
+      "PackagePath": "staticwebassets\\assets\\profile2\\friends_hover.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\profile2\\message.png",
+      "PackagePath": "staticwebassets\\assets\\profile2\\message.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\profile2\\message_hover.png",
+      "PackagePath": "staticwebassets\\assets\\profile2\\message_hover.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\profile2\\profile.png",
+      "PackagePath": "staticwebassets\\assets\\profile2\\profile.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\profile2\\ripeness.png",
+      "PackagePath": "staticwebassets\\assets\\profile2\\ripeness.png"
+    },
+    {
       "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\profile\\collection.png",
       "PackagePath": "staticwebassets\\assets\\profile\\collection.png"
     },
     {
       "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\profile\\edit_profile.png",
       "PackagePath": "staticwebassets\\assets\\profile\\edit_profile.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\profile\\edit_profile_hover.png",
+      "PackagePath": "staticwebassets\\assets\\profile\\edit_profile_hover.png"
     },
     {
       "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\profile\\help.png",

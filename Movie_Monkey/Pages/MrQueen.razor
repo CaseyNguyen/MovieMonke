@@ -250,12 +250,43 @@
 				<div class="bigDivider"></div>
 				<div class="medDivider"></div>
 				<div style="padding-left:200px;">
+					@if (Posts.Count > 0)
+					{
+						@foreach (String postVal in Posts)
+						{
+							<Row>
+								<Column ColumnSize="ColumnSize.Is2">
+									<a href="/profile/2">
+										<img src="assets/SampleProfile1.png" />
+									</a>
+								</Column>
+								<Column ColumnSize="ColumnSize.Is10">
+									<a style="text-decoration: none; color: white;" href="/profile/2">
+										<h2>@at()happigeon</h2>
+									</a>
+									<div class="blankDivider"></div>
+									<h5>Los Angeles, CA, USA</h5>
+									<div class="blankDivider"></div>
+									<p>
+										Mr. Queen has long been one of my favorite K-Dramas. When I had the
+										opportunity to travel to South Korea, I decided to visit some iconic
+										landmarks that I once dreamed of. The ease and access of finding these
+										locations through Movie Monkey allowed for less stress. Woohoo! Great trip ~~
+									</p>
+								</Column>
+							</Row>
+						}
+					}
 					<Row>
 						<Column ColumnSize="ColumnSize.Is2">
-							<img src="assets/SampleProfile1.png" />
+							<a href="/profile/2">
+								<img src="assets/SampleProfile1.png" />
+							</a>
 						</Column>
 						<Column ColumnSize="ColumnSize.Is10">
-							<h2>@at()happigeon</h2>
+							<a style ="text-decoration: none; color: white;" href="/profile/2">
+								<h2>@at()happigeon</h2>
+							</a>
 							<div class="blankDivider"></div>
 							<h5>Los Angeles, CA, USA</h5>
 							<div class="blankDivider"></div>
@@ -312,6 +343,13 @@
 	bool seen = false;
 	private int didValue = 14;
 	bool did = false;
+
+	List<String> Posts = new();
+
+	private void addPost(String post)
+	{
+		Posts.Add(post);
+	}
 
 	private void seenIt()
 	{
