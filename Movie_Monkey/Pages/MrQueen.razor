@@ -11,6 +11,7 @@
 	<img style = "width: 100%; height: 95%;"src="assets/mrqueen/hero.png">
 	<div class="heroText">
 		<h1>Mr. Queen</h1>
+		<br />
 		<div>
 			<p>Directed by Yoon Sung-sik, it stars Shin Hye-sun as Queen Cheorin 
 				and Kim Jung-hyun as King Cheoljong. The drama is about Queen 
@@ -24,10 +25,18 @@
 <body>
 	<div class="layout">
 		<button style="display: inline-block">
-			<img src="assets/AddToCollection.png" />
+			<div class="figure">
+				<img src="assets/AddToCollection.png" />
+				<img class="hover" src="assets/AddToCollection_Hover.png" />
+			</div>
 		</button>
 		<button style="display: inline-block">
-			<img src="assets/MonkeChat.png" />
+			<Link To="#chat">
+				<div class="figure">
+					<img src="assets/MonkeChat.png" />
+					<img class="hover" src="assets/MonkeChat_Hover.png" />
+				</div>
+			</Link>
 		</button>
 		<div class="medDivider"></div>
 		<Row>
@@ -64,13 +73,19 @@
 				</Link>
 			</Column>
 			<Column ColumnSize="ColumnSize.IsQuarter">
-				<img src="assets/mrqueen/Highlight2.png" />
+				<Link To="#2">
+					<img src="assets/mrqueen/Highlight2.png" />
+				</Link>
 			</Column>
 			<Column ColumnSize="ColumnSize.IsQuarter">
+				<Link To="#3">
 				<img src="assets/mrqueen/Highlight3.png" />
+				</Link>
 			</Column>
 			<Column ColumnSize="ColumnSize.IsQuarter">
+				<Link To="#4">
 				<img src="assets/mrqueen/Highlight4.png" />
+				</Link>
 			</Column>
 		</Row>
 		<div id="1" class="medDivider"></div>
@@ -100,11 +115,90 @@
 						</p>
 					</Column>
 				</Row>
-
 			</Column>
 		</Row>
 
-		<div class="bigDivider"></div>
+		<div id="2" class="medDivider"></div>
+		<h3>Seongyojang House</h3>
+		<div class="yellowDivider"></div>
+		<div class="medDivider"></div>
+		<Row>
+			<Column ColumnSize="ColumnSize.Is5">
+				<img src="assets/mrqueen/Highlight2_Enlarged.png" />
+			</Column>
+			<Column ColumnSize="ColumnSize.Is7">
+				<Row>
+					<Column ColumnSize="ColumnSize.Is1">
+						<img style="padding-left: 23px;" src="assets/Location.png" />
+					</Column>
+					<Column ColumnSize="ColumnSize.Is11">
+						<h2>Seongyojang House<img style="float: right" src="assets/Link.png"></h2>
+						<h2>강릉 선교장</h2>
+						<div class="blankDivider"></div>
+						<p>
+							The infamous Korean game neolttwigi played by Queen Cheorin (Shin Hye-sun).
+							<br /><br />
+							Better known as a traditional outdoor game of Korean women and girls that is typically enjoyed on traditional holidays, neolttwigi is typically enjoyed on traditional holidays such as Korean New Year, Chuseok, and Dano. Neolttwigi is similar to seesaw, except that participants stand on each end of the Neol and jump, propelling the person opposite into the air.
+						</p>
+					</Column>
+				</Row>
+			</Column>
+		</Row>
+
+		<div id="3" class="medDivider"></div>
+		<h3>Gwanghanruwon Garden</h3>
+		<div class="yellowDivider"></div>
+		<div class="medDivider"></div>
+		<Row>
+			<Column ColumnSize="ColumnSize.Is5">
+				<img src="assets/mrqueen/Highlight3_Enlarged.png" />
+			</Column>
+			<Column ColumnSize="ColumnSize.Is7">
+				<Row>
+					<Column ColumnSize="ColumnSize.Is1">
+						<img style="padding-left: 23px;" src="assets/Location.png" />
+					</Column>
+					<Column ColumnSize="ColumnSize.Is11">
+						<h2>Gwanghanruwon Garden<img style="float: right" src="assets/Link.png"></h2>
+						<h2>남원 오작교 광한루원</h2>
+						<div class="blankDivider"></div>
+						<p>
+							Located in the city of Namwon, Gwanghanruwon Garden is where is where Bong-hwan (Choi Jin-hyuk) first found out that his precious thing was gone after travelling back to the ancient times.
+						</p>
+					</Column>
+				</Row>
+			</Column>
+		</Row>
+
+		<div id="4" class="medDivider"></div>
+		<h3>Byeongsan Seowon</h3>
+		<div class="yellowDivider"></div>
+		<div class="medDivider"></div>
+		<Row>
+			<Column ColumnSize="ColumnSize.Is5">
+				<img src="assets/mrqueen/Highlight4_Enlarged.png" />
+			</Column>
+			<Column ColumnSize="ColumnSize.Is7">
+				<Row>
+					<Column ColumnSize="ColumnSize.Is1">
+						<img style="padding-left: 23px;" src="assets/Location.png" />
+					</Column>
+					<Column ColumnSize="ColumnSize.Is11">
+						<h2>Byeongsan Seowon<img style="float: right" src="assets/Link.png"></h2>
+						<h2>병산서원</h2>
+						<div class="blankDivider"></div>
+						<p>
+							No one likes uninvited guests, and especially not King Cheoljong (Jung-Wook). Byeongsan Seowon is the breathtaking filming location where King Cheoljong’s uninvited cousin appears, leading to a nasty fight.
+							<br /><br />
+							Seowon refers to Korean Neo-Confucian Academies and Byeongsan Seowon is one of the nine seowon in Korea on the UNESCO World Heritage List.
+						</p>
+					</Column>
+				</Row>
+			</Column>
+		</Row>
+
+
+		<div id="chat" class="bigDivider"></div>
 		<!--Start chat-->
 		<h2>Monkey Business</h2>
 		<div class="bigYellowDivider"></div>
@@ -114,17 +208,39 @@
 				<div class="visits" style="padding-left: 30px;">
 					<h3>Visits</h3>
 					<div class="blankDivider"></div>
-					<button onclick="@seen">
-						<img src="assets/MonkeSee.png" />
+					<button onclick="@seenIt">
+						@if (seen)
+						{
+							<img src="assets/MonkeSee_Hover.png">
+						}
+						else
+						{
+							<div class="figure">
+								<img src="assets/MonkeSee.png" />
+								<img class="hover" src="assets/MonkeSee_Hover.png" />
+							</div>
+						}
 					</button>
 					<div class="blankDivider"></div>
-					<button onclick="@did">
-						<img src="assets/MonkeDid.png" />
+					<button onclick="@didIt">
+						@if (did)
+						{
+							<img src="assets/MonkeDid_Hover.png">
+						}
+						else{
+							<div class="figure">
+								<img src="assets/MonkeDid.png" />
+								<img class="hover" src="assets/MonkeDid_Hover.png" />
+							</div>
+						}
 					</button>
 
 					<div class="medDivider"></div>
 					<h3><img src="assets/Eye.png" /><b>	@seeValue%	</b>Monke See</h3>
 					<h3><img src="assets/Eye_Off.png" /><b>	@didValue%	</b>Monke Did</h3>
+					<div class="medDivider"></div>
+					<p style="font-size: 14px; text-decoration: underline">Report</p>
+					<p style="font-size: 14px; text-decoration: underline">Help</p>
 				</div>
 			</Column>
 			<Column ColumnSize="ColumnSize.Is8">
@@ -139,7 +255,7 @@
 							<img src="assets/SampleProfile1.png" />
 						</Column>
 						<Column ColumnSize="ColumnSize.Is10">
-							<h2>@at()JennyChen32</h2>
+							<h2>@at()happigeon</h2>
 							<div class="blankDivider"></div>
 							<h5>Los Angeles, CA, USA</h5>
 							<div class="blankDivider"></div>
@@ -157,7 +273,7 @@
 							<img src="assets/SampleProfile2.png" />
 						</Column>
 						<Column ColumnSize="ColumnSize.Is10">
-							<h2>@at()happigeon</h2>
+							<h2>@at()JennyFromDa808</h2>
 							<div class="blankDivider"></div>
 							<h5>Seattle, WA, USA</h5>
 							<div class="blankDivider"></div>
@@ -197,18 +313,18 @@
 	private int didValue = 14;
 	bool did = false;
 
-	void seenIt()
+	private void seenIt()
 	{
 		seen = !seen;
 		if (seen) seeValue = 87;
 		else seeValue = 86;
 	}
 
-	void didIt()
+	private void didIt()
 	{
 		did = !did;
 		if (did) didValue = 20;
-		else seeValue = 14;
+		else didValue = 14;
 	}
 
 	string at()

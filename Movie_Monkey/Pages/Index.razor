@@ -12,16 +12,19 @@
 	<div class="heroText">
 		<h1>Monke See, Monke Do</h1>
 		<p>Travel vicariously through your favorite Asian films and dramas. What are you waiting for?</p>
-		<Link To="#main">
-			<img style ="height: 49px; width: auto;" src="assets/Nothing.png" />
+		<Link To="#1">
+			<div class="button">
+				<div class="figure">
+					<img src="assets/Nothing.png" />
+					<img class="hover" src="assets/Nothing_Hover.png" />
+				</div>
+			</div>
 		</Link>
-		
 	</div>
-
 </div>
 
-<body id="main">
-	<div class="layout">
+<body>
+	<div class="layout" id="1">
 		<h2>Explore Community Collections</h2>
 		<div class="mainYellowDivider"></div>
 		<div class="blankDivider"></div>
@@ -52,26 +55,36 @@
 		<h2>Monke's Most Popular</h2>
 		<div class="mainYellowDivider"></div>
 		<div class="blankDivider"></div>
-		<Carousel>
+		<Carousel Autoplay=false AutoplayRepeat=false>
 			<CarouselSlide Name="1">
 				<Row>
 					<Column ColumnSize = "ColumnSize.Is2">
-						<Image Source="/assets/mainpage/Carousel1/1.png" Display: block />
+						<div class="selectable">
+							<a>
+								<Image Source="/assets/mainpage/Carousel1/6.png" Display: block />
+							</a>
+						</div>
 					</Column>
 					<Column ColumnSize="ColumnSize.Is2">
-						<Image Source="/assets/mainpage/Carousel1/2.png" Display: block />
+						<a href="/mrqueen">
+							<Image Source="/assets/mainpage/Carousel1/1.png" Display: block />
+						</a>
 					</Column>
 					<Column ColumnSize = "ColumnSize.Is2">
-						<Image Source="/assets/mainpage/Carousel1/3.png" Display: block />
+						<a href="/your_name">
+							<Image Source="/assets/mainpage/Carousel1/2.png" Display: block />
+						</a>
+					</Column>
+					<Column ColumnSize = "ColumnSize.Is2">
+						<a href="/meteor_garden">
+							<Image Source="/assets/mainpage/Carousel1/3.png" Display: block />
+						</a>
 					</Column>
 					<Column ColumnSize = "ColumnSize.Is2">
 						<Image Source="/assets/mainpage/Carousel1/4.png" Display: block />
 					</Column>
-					<Column ColumnSize = "ColumnSize.Is2">
-						<Image Source="/assets/mainpage/Carousel1/5.png" Display: block />
-					</Column>
 					<Column ColumnSize="ColumnSize.Is2">
-						<Image Source="/assets/mainpage/Carousel1/6.png" Display: block />
+						<Image Source="/assets/mainpage/Carousel1/5.png" Display: block />
 					</Column>
 				</Row>
 			</CarouselSlide>

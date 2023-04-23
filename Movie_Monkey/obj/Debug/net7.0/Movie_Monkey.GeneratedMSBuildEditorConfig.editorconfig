@@ -24,12 +24,24 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = TWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/casey/Documents/GitHub/MovieMonkey/Movie_Monkey/Pages/Overview1.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3ZlcnZpZXcxLnJhem9y
+[C:/Users/casey/Documents/GitHub/MovieMonkey/Movie_Monkey/Pages/Bananas.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmFuYW5hcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/casey/Documents/GitHub/MovieMonkey/Movie_Monkey/Pages/MeteorGarden.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWV0ZW9yR2FyZGVuLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/casey/Documents/GitHub/MovieMonkey/Movie_Monkey/Pages/MrQueen.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXJRdWVlbi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/casey/Documents/GitHub/MovieMonkey/Movie_Monkey/Pages/Profile.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZmlsZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/casey/Documents/GitHub/MovieMonkey/Movie_Monkey/Pages/YourName.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcWW91ck5hbWUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/casey/Documents/GitHub/MovieMonkey/Movie_Monkey/_Imports.razor]
@@ -39,10 +51,6 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/casey/Documents/GitHub/MovieMonkey/Movie_Monkey/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-l65puzrmv1
-
-[C:/Users/casey/Documents/GitHub/MovieMonkey/Movie_Monkey/Pages/MrQueen.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXJRdWVlbi5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = b-u0atj3ddlm
 
 [C:/Users/casey/Documents/GitHub/MovieMonkey/Movie_Monkey/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s

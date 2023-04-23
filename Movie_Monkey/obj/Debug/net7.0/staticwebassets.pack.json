@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\assets\\AddToCollection.png"
     },
     {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\AddToCollection_Hover.png",
+      "PackagePath": "staticwebassets\\assets\\AddToCollection_Hover.png"
+    },
+    {
       "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\Eye.png",
       "PackagePath": "staticwebassets\\assets\\Eye.png"
     },
@@ -33,12 +37,24 @@
       "PackagePath": "staticwebassets\\assets\\MonkeChat.png"
     },
     {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\MonkeChat_Hover.png",
+      "PackagePath": "staticwebassets\\assets\\MonkeChat_Hover.png"
+    },
+    {
       "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\MonkeDid.png",
       "PackagePath": "staticwebassets\\assets\\MonkeDid.png"
     },
     {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\MonkeDid_Hover.png",
+      "PackagePath": "staticwebassets\\assets\\MonkeDid_Hover.png"
+    },
+    {
       "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\MonkeSee.png",
       "PackagePath": "staticwebassets\\assets\\MonkeSee.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\MonkeSee_Hover.png",
+      "PackagePath": "staticwebassets\\assets\\MonkeSee_Hover.png"
     },
     {
       "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\Monkey+Arms.png",
@@ -55,6 +71,10 @@
     {
       "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\Nothing.png",
       "PackagePath": "staticwebassets\\assets\\Nothing.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\Nothing_Hover.png",
+      "PackagePath": "staticwebassets\\assets\\Nothing_Hover.png"
     },
     {
       "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\Profile.png",
@@ -169,6 +189,10 @@
       "PackagePath": "staticwebassets\\assets\\mainpage\\Imperial.png"
     },
     {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\mainpage\\LoadMore.png",
+      "PackagePath": "staticwebassets\\assets\\mainpage\\LoadMore.png"
+    },
+    {
       "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\mainpage\\NetflixDramas.png",
       "PackagePath": "staticwebassets\\assets\\mainpage\\NetflixDramas.png"
     },
@@ -183,6 +207,42 @@
     {
       "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\mainpage\\hero.png",
       "PackagePath": "staticwebassets\\assets\\mainpage\\hero.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\meteorgarden\\Highlight1.png",
+      "PackagePath": "staticwebassets\\assets\\meteorgarden\\Highlight1.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\meteorgarden\\Highlight1_Enlarged.png",
+      "PackagePath": "staticwebassets\\assets\\meteorgarden\\Highlight1_Enlarged.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\meteorgarden\\Highlight2.png",
+      "PackagePath": "staticwebassets\\assets\\meteorgarden\\Highlight2.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\meteorgarden\\Highlight2_Enlarged.png",
+      "PackagePath": "staticwebassets\\assets\\meteorgarden\\Highlight2_Enlarged.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\meteorgarden\\Highlight3.png",
+      "PackagePath": "staticwebassets\\assets\\meteorgarden\\Highlight3.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\meteorgarden\\Highlight3_Enlarged.png",
+      "PackagePath": "staticwebassets\\assets\\meteorgarden\\Highlight3_Enlarged.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\meteorgarden\\Highlight4.png",
+      "PackagePath": "staticwebassets\\assets\\meteorgarden\\Highlight4.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\meteorgarden\\Highlight4_Enlarged.png",
+      "PackagePath": "staticwebassets\\assets\\meteorgarden\\Highlight4_Enlarged.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\meteorgarden\\hero.png",
+      "PackagePath": "staticwebassets\\assets\\meteorgarden\\hero.png"
     },
     {
       "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\mrqueen\\Highlight1.png",
@@ -213,8 +273,8 @@
       "PackagePath": "staticwebassets\\assets\\mrqueen\\Highlight4.png"
     },
     {
-      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\mrqueen\\Higlight4_Enlarged.png",
-      "PackagePath": "staticwebassets\\assets\\mrqueen\\Higlight4_Enlarged.png"
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\mrqueen\\Highlight4_Enlarged.png",
+      "PackagePath": "staticwebassets\\assets\\mrqueen\\Highlight4_Enlarged.png"
     },
     {
       "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\mrqueen\\Mr_Queen_Heo_Gyun_Heo_Nanseolheon_Memorial_Park 1.png",
@@ -225,12 +285,60 @@
       "PackagePath": "staticwebassets\\assets\\mrqueen\\hero.png"
     },
     {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\profile\\collection.png",
+      "PackagePath": "staticwebassets\\assets\\profile\\collection.png"
+    },
+    {
       "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\profile\\edit_profile.png",
       "PackagePath": "staticwebassets\\assets\\profile\\edit_profile.png"
     },
     {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\profile\\help.png",
+      "PackagePath": "staticwebassets\\assets\\profile\\help.png"
+    },
+    {
       "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\profile\\profiile.png",
       "PackagePath": "staticwebassets\\assets\\profile\\profiile.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\profile\\ripeness.png",
+      "PackagePath": "staticwebassets\\assets\\profile\\ripeness.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\yourname\\Highlight1.png",
+      "PackagePath": "staticwebassets\\assets\\yourname\\Highlight1.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\yourname\\Highlight1_Enlarged.png",
+      "PackagePath": "staticwebassets\\assets\\yourname\\Highlight1_Enlarged.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\yourname\\Highlight2.png",
+      "PackagePath": "staticwebassets\\assets\\yourname\\Highlight2.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\yourname\\Highlight2_Enlarged.png",
+      "PackagePath": "staticwebassets\\assets\\yourname\\Highlight2_Enlarged.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\yourname\\Highlight3.png",
+      "PackagePath": "staticwebassets\\assets\\yourname\\Highlight3.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\yourname\\Highlight3_Enlarged.png",
+      "PackagePath": "staticwebassets\\assets\\yourname\\Highlight3_Enlarged.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\yourname\\Highlight4.png",
+      "PackagePath": "staticwebassets\\assets\\yourname\\Highlight4.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\yourname\\Highlight4_Enlarged.png",
+      "PackagePath": "staticwebassets\\assets\\yourname\\Highlight4_Enlarged.png"
+    },
+    {
+      "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\assets\\yourname\\hero.png",
+      "PackagePath": "staticwebassets\\assets\\yourname\\hero.png"
     },
     {
       "Id": "C:\\Users\\casey\\Documents\\GitHub\\MovieMonkey\\Movie_Monkey\\wwwroot\\css\\fonts\\Inter.zip",

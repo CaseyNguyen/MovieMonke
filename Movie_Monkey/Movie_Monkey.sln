@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Movie_Monkey", "Movie_Monkey.csproj", "{188B13E1-1B15-4639-A0DC-9F6B4C806619}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Movie_Monkey", "Movie_Monkey.csproj", "{188B13E1-1B15-4639-A0DC-9F6B4C806619}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
